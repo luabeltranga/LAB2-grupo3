@@ -9,3 +9,4 @@ Repositorio creado para el laboratorio 2 control de versiones GAPS 2026-I
 - David Zambrano – dzambranob
 - Yeison Hurtado - hyeison
 - WIlliam Robles - Willisk8
+
